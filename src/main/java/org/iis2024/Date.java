@@ -20,6 +20,11 @@ public class Date {
   private final int month;
   private final int year;
   private int owo;
+  
+  public void metodo()
+  {
+	  System.out.println("Method added by owner");
+  }
   /**
    * Retrieves the day component of this date.
    *
